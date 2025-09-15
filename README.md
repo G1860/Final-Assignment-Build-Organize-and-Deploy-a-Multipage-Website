@@ -3,7 +3,7 @@ This the final repository for my project
 
 ---
 
-## ✨ Features  
+## Features  
 
 - **Responsive Design** (mobile & desktop friendly)  
 - **Navigation Bar** with internal links across pages  
@@ -15,7 +15,7 @@ This the final repository for my project
 
 ---
 
-## 🚀 Deployment  
+## Deployment  
 
 The site is hosted on **GitHub Pages**.  
 
@@ -29,7 +29,7 @@ To deploy on GitHub Pages:
 
 ---
 
-## 🛠️ Technologies Used  
+##  Technologies Used  
 
 - **HTML5** – Semantic structure  
 - **CSS3** – Layout, styling, animations  
@@ -38,7 +38,7 @@ To deploy on GitHub Pages:
 
 ---
 
-## 📬 Contact  
+## Contact  
 
 - **Email:** [info@educonnect.co.ke](mailto:info@educonnect.co.ke)  
 - **Website:** [www.educonnect.co.ke](https://www.educonnect.co.ke)  
